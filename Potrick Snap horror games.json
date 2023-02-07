@@ -6,10 +6,10 @@
   "banner_applovin": "",
   "inter_applovin": "",
   "reword_applovin": "",
-  "game_id": "",
+  "game_id": "5146611",
   "banner_unity": "",
-  "inter_unity": "",
-  "reword_unity":"",
+  "inter_unity": "Interstitial_Android",
+  "reword_unity":"Rewarded_Android",
   "banner_fan": "",
   "inter_fan": "",
   "reword_fan":""
